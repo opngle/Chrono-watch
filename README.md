@@ -1,5 +1,5 @@
 # Chrono-watch
-stopwatch, count down,1/1000 high resolution timer
+stopwatch, count down,1/1000s high resolution timer
 
 coding with GLFW :a pure graphics rendering framework for OpenGL
 https://www.glfw.org/
